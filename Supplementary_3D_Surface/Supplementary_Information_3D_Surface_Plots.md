@@ -6,18 +6,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 
 # Northwest
 ## Precipitation
-- [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_January_Northwest.html)
-- [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_February_Northwest.html)
-- [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_March_Northwest.html)
-- [April](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_April_Northwest.html)
-- [May](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_May_Northwest.html)
-- [June](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_June_Northwest.html)
-- [July](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_July_Northwest.html)
-- [August](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_August_Northwest.html)
-- [September](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_September_Northwest.html)
-- [October](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_October_Northwest.html)
-- [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_November_Northwest.html)
-- [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_December_Northwest.html)
+[January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_January_Northwest.html) | [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_February_Northwest.html) | [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_March_Northwest.html) | [April](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_April_Northwest.html) | [May](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_May_Northwest.html) | [June](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_June_Northwest.html) | [July](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_July_Northwest.html) | [August](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_August_Northwest.html) | [September](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_September_Northwest.html) | [October](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_October_Northwest.html) | [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_November_Northwest.html) | [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_December_Northwest.html)
 
 ## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_January_Northwest.html)
