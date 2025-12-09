@@ -4,10 +4,8 @@ Submitted to *Journal of Advances in Modeling Earth Systems*
 
 Each hyperlink below provides access to the 3D surface plots at the representative center location of each region (as indicated in Figure 1).
 
-#############
-# Northwest #
-#############
-# Precipitation
+# Northwest
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_January_Northwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_February_Northwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_March_Northwest.html)
@@ -21,7 +19,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_November_Northwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Precipitation_December_Northwest.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_January_Northwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_February_Northwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_March_Northwest.html)
@@ -35,10 +33,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_November_Northwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northwest/MGP_Temperature_December_Northwest.html)
 
-#############
-# Southwest #
-#############
-# Precipitation
+# Southwest
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Precipitation_January_Southwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Precipitation_February_Southwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Precipitation_March_Southwest.html)
@@ -52,7 +48,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Precipitation_November_Southwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Precipitation_December_Southwest.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Temperature_January_Southwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Temperature_February_Southwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Temperature_March_Southwest.html)
@@ -66,10 +62,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Temperature_November_Southwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southwest/MGP_Temperature_December_Southwest.html)
 
-######################
-# Great Plains North #
-######################
-# Precipitation
+# Great Plains North
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Precipitation_January_GreatPlainsNorth.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Precipitation_February_GreatPlainsNorth.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Precipitation_March_GreatPlainsNorth.html)
@@ -83,7 +77,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Precipitation_November_GreatPlainsNorth.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Precipitation_December_GreatPlainsNorth.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Temperature_January_GreatPlainsNorth.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Temperature_February_GreatPlainsNorth.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Temperature_March_GreatPlainsNorth.html)
@@ -97,10 +91,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Temperature_November_GreatPlainsNorth.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsNorth/MGP_Temperature_December_GreatPlainsNorth.html)
 
-######################
-# Great Plains South #
-######################
-# Precipitation
+# Great Plains South
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Precipitation_January_GreatPlainsSouth.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Precipitation_February_GreatPlainsSouth.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Precipitation_March_GreatPlainsSouth.html)
@@ -114,7 +106,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Precipitation_November_GreatPlainsSouth.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Precipitation_December_GreatPlainsSouth.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Temperature_January_GreatPlainsSouth.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Temperature_February_GreatPlainsSouth.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Temperature_March_GreatPlainsSouth.html)
@@ -128,10 +120,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Temperature_November_GreatPlainsSouth.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/GreatPlainsSouth/MGP_Temperature_December_GreatPlainsSouth.html)
 
-###########
-# Midwest #
-###########
-# Precipitation
+# Midwest
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Precipitation_January_Midwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Precipitation_February_Midwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Precipitation_March_Midwest.html)
@@ -145,7 +135,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Precipitation_November_Midwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Precipitation_December_Midwest.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Temperature_January_Midwest.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Temperature_February_Midwest.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Temperature_March_Midwest.html)
@@ -159,10 +149,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Temperature_November_Midwest.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Midwest/MGP_Temperature_December_Midwest.html)
 
-#############
-# Northeast #
-#############
-# Precipitation
+# Northeast
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Precipitation_January_Northeast.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Precipitation_February_Northeast.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Precipitation_March_Northeast.html)
@@ -176,7 +164,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Precipitation_November_Northeast.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Precipitation_December_Northeast.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Temperature_January_Northeast.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Temperature_February_Northeast.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Temperature_March_Northeast.html)
@@ -190,10 +178,8 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Temperature_November_Northeast.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Northeast/MGP_Temperature_December_Northeast.html)
 
-#############
-# Southeast #
-#############
-# Precipitation
+# Southeast
+## Precipitation
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Precipitation_January_Southeast.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Precipitation_February_Southeast.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Precipitation_March_Southeast.html)
@@ -207,7 +193,7 @@ Each hyperlink below provides access to the 3D surface plots at the representati
 - [November](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Precipitation_November_Southeast.html)
 - [December](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Precipitation_December_Southeast.html)
 
-# Temperature
+## Temperature
 - [January](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Temperature_January_Southeast.html)
 - [February](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Temperature_February_Southeast.html)
 - [March](https://taereemk.github.io/MGP_Physical_informed_bias_correction/Supplementary_3D_Surface/Southeast/MGP_Temperature_March_Southeast.html)
