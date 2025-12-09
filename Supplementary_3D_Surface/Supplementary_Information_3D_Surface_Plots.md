@@ -2,7 +2,7 @@
 <h1>Supporting Information for "Physics-informed bias correction using a convolution-based multivariate Gaussian process"</h1>
 <p><em>Submitted to Journal of Advances in Modeling Earth Systems</em></p>
 
-<p>Each hyperlink below provides access to the 3D surface plots at the representative center location of each region (as indicated in Figure 1).</p>
+<p>Each hyperlink below provides access to the 3D surface plots at the center location of each region (as indicated in Figure 1).</p>
 
 ## Northwest
 Precipitation
