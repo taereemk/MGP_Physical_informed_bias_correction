@@ -321,7 +321,7 @@ sub_region <- c("Northwest","Southwest","GreatPlainsNorth","GreatPlainsSouth","M
         pk.test_fm = etan(xs=test_obs, x=trains_fm, L=H0_fm, measures=n)
         ypred.test.fm = as.matrix(t(pk.test_fm)%*%solve(covM_fm, trainy_fm))
         ypred.test.fm.tas = ypred.test.fm[1:dp.test] * (max(z.tas_fm)-min(z.tas_fm)) + min(z.tas_fm)
-        ypred.test.fm.pr   = ypred.test.fm[(dp.test+1):(dp.test*2)] * (max(z.pr_obs)-min(z.pr_obs)) + min(z.pr_obs)
+        ypred.test.fm.pr   = ypred.test.fm[(dp.test+1):(dp.test*2)] * (max(z.pr_fm)-min(z.pr_fm)) + min(z.pr_fm)
         
         # Get f^E(x^new)
         pk.test_fe = etan(xs=test_obs, x=trains_fe, L=H0_fe, measures=n)
